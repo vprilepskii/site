@@ -1,0 +1,35 @@
+#content {
+   background: #E5E5FA;
+   padding: 0px 15px 10px;
+   border-radius: 0px 5px 5px 0px;
+   font-size: 14px;
+   vertical-align: top;
+   text-align: justify;
+}
+.pageheader {
+   padding-bottom: 10px;
+   
+}
+.pagecontent a {
+   text-decoration: none;
+   color: #750707;
+}
+.pagecontent a:visited {
+   color: #185467;
+}
+.pagecontent a:hover {
+   text-decoration: underline;
+   color: #f01212;
+}
+table {
+   width: 100%;
+   border-collapse: collapse;
+}
+.border td {
+   border: 1px solid;
+   padding:0px 7px;
+}
+.border th {
+   border: 1px solid;
+   padding:0px 7px;
+}

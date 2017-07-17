@@ -1,0 +1,25 @@
+.header {
+   border-radius: 10px;
+   border: 4px solid #696969;
+   margin: 50px auto 10px;
+   background: #104403;
+   width: 80%;
+}
+.headline {
+   font-size: 22px;
+   text-align: center;
+   color: #E0E0E0;
+   letter-spacing: 3px;
+   line-height: 1.5;
+}
+.headline2 {
+   font-size: 13px;
+   text-align: right;
+   color: #E0E0E0;
+   letter-spacing: 1px;
+   margin-right: 10px;
+}
+#logo {
+   width: 300px;
+   text-align: center;
+}

@@ -1,0 +1,37 @@
+﻿#navigation {
+   width: 270px;
+   background: #6A8A84;
+   border-radius: 5px 0px 0px 5px;
+   vertical-align: top;
+}
+.menu {
+   list-style: none;
+   width: 260px;
+   padding: 15px;
+   font-size: 14px;
+}
+.menu a {
+   display: block;
+   padding: 7px 0px;
+   color: #000000;
+   text-decoration: none;
+}
+.menu a:hover {
+   background: #92d3d3;
+}
+.menu>li {
+   position: relative;
+}
+.menu .submenu {
+   position: absolute;
+   top: 0px;
+   left: 260px;
+   display: none;
+   width: 250px;
+   padding: 0px 7px;
+   list-style: none;
+   background: #fcf8e3;
+}
+.menu>li:hover .submenu {
+   display: block;
+}
